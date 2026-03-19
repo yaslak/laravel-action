@@ -1,6 +1,6 @@
 ---
 name: event
-description: Generates a Laravel Event following project conventions. Trigger on: "create an event", "new event", "event for {Entity}", "dispatch event". Always use this skill for any Event creation or modification.
+description: 'Generates a Laravel Event following project conventions. Trigger on: "create an event", "new event", "event for {Entity}", "dispatch event". Always use this skill for any Event creation or modification.'
 ---
 
 # Event

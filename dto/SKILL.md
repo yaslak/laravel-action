@@ -1,6 +1,6 @@
 ---
 name: dto
-description: Generates a Laravel DTO following project conventions. Trigger on: "create a dto", "new dto", "dto for {Entity}", "add a data transfer object". Always use this skill for any DTO creation or modification.
+description: 'Generates a Laravel DTO following project conventions. Trigger on: "create a dto", "new dto", "dto for {Entity}", "add a data transfer object". Always use this skill for any DTO creation or modification.'
 ---
 
 # DTO

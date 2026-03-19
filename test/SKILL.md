@@ -1,6 +1,6 @@
 ---
 name: test
-description: Generates Laravel tests following project conventions. Trigger on: "create a test", "new test", "test for {Entity}", "add unit test", "add feature test". Always use this skill for any test creation or modification.
+description: 'Generates Laravel tests following project conventions. Trigger on: "create a test", "new test", "test for {Entity}", "add unit test", "add feature test". Always use this skill for any test creation or modification.'
 ---
 
 # Test

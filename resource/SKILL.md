@@ -1,6 +1,6 @@
 ---
 name: resource
-description: Generates a Laravel Resource following project conventions. Trigger on: "create a resource", "new resource", "resource for {Entity}", "format response". Always use this skill for any Resource creation or modification.
+description: 'Generates a Laravel Resource following project conventions. Trigger on: "create a resource", "new resource", "resource for {Entity}", "format response". Always use this skill for any Resource creation or modification.'
 ---
 
 # Resource

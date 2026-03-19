@@ -1,6 +1,6 @@
 ---
 name: enum
-description: Generates a Laravel Enum following project conventions. Trigger on: "create an enum", "new enum", "enum for {Entity}", "add status", "add type". Always use this skill for any Enum creation or modification.
+description: 'Generates a Laravel Enum following project conventions. Trigger on: "create an enum", "new enum", "enum for {Entity}", "add status", "add type". Always use this skill for any Enum creation or modification.'
 ---
 
 # Enum

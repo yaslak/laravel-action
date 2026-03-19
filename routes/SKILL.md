@@ -1,6 +1,6 @@
 ---
 name: routes
-description: Generates Laravel routes following project conventions. Trigger on: "create a route", "new route", "add endpoint", "register route for {Entity}". Always use this skill for any route creation or modification.
+description: 'Generates Laravel routes following project conventions. Trigger on: "create a route", "new route", "add endpoint", "register route for {Entity}". Always use this skill for any route creation or modification.'
 ---
 
 # Routes

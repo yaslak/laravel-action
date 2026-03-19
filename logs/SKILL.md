@@ -1,6 +1,6 @@
 ---
 name: logs
-description: Defines logging conventions for the project. Trigger on: "add a log", "log this", "add logging", "log error", "log event". Always use this skill for any logging implementation.
+description: 'Defines logging conventions for the project. Trigger on: "add a log", "log this", "add logging", "log error", "log event". Always use this skill for any logging implementation.'
 ---
 
 # Logs

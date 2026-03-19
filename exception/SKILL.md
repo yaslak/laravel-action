@@ -1,6 +1,6 @@
 ---
 name: exception
-description: Generates a Laravel custom Exception following project conventions. Trigger on: "create an exception", "new exception", "exception for {Entity}", "handle error". Always use this skill for any Exception creation or modification.
+description: 'Generates a Laravel custom Exception following project conventions. Trigger on: "create an exception", "new exception", "exception for {Entity}", "handle error". Always use this skill for any Exception creation or modification.'
 ---
 
 # Exception

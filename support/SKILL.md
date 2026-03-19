@@ -1,6 +1,6 @@
 ---
 name: support
-description: Generates a Laravel Support object following project conventions. Trigger on: "create a support object", "new support", "support for {Entity}", "typed json object". Always use this skill for any Support object creation or modification.
+description: 'Generates a Laravel Support object following project conventions. Trigger on: "create a support object", "new support", "support for {Entity}", "typed json object". Always use this skill for any Support object creation or modification.'
 ---
 
 # Support

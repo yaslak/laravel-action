@@ -1,6 +1,6 @@
 ---
 name: service-provider
-description: Generates a Laravel ServiceProvider following project conventions. Trigger on: "create a service provider", "new provider", "register service", "bootstrap service". Always use this skill for any ServiceProvider creation or modification.
+description: 'Generates a Laravel ServiceProvider following project conventions. Trigger on: "create a service provider", "new provider", "register service", "bootstrap service". Always use this skill for any ServiceProvider creation or modification.'
 ---
 
 # ServiceProvider

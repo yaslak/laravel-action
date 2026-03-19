@@ -1,6 +1,6 @@
 ---
 name: controller
-description: Generates a Laravel Controller following project conventions. Trigger on: "create a controller", "new controller", "controller for {Entity}", "add a method", "new endpoint". Always use this skill for any Controller creation or modification.
+description: 'Generates a Laravel Controller following project conventions. Trigger on: "create a controller", "new controller", "controller for {Entity}", "add a method", "new endpoint". Always use this skill for any Controller creation or modification.'
 ---
 
 # Controller

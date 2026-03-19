@@ -1,6 +1,6 @@
 ---
 name: form-request
-description: Generates a Laravel FormRequest following project conventions. Trigger on: "create a form request", "new request", "validate {Entity}", "add validation". Always use this skill for any FormRequest creation or modification.
+description: 'Generates a Laravel FormRequest following project conventions. Trigger on: "create a form request", "new request", "validate {Entity}", "add validation". Always use this skill for any FormRequest creation or modification.'
 ---
 
 # FormRequest

@@ -1,6 +1,6 @@
 ---
 name: cast
-description: Generates a Laravel Cast following project conventions. Trigger on: "create a cast", "new cast", "cast for {Entity}", "cast json column". Always use this skill for any Cast creation or modification.
+description: 'Generates a Laravel Cast following project conventions. Trigger on: "create a cast", "new cast", "cast for {Entity}", "cast json column". Always use this skill for any Cast creation or modification.'
 ---
 
 # Cast

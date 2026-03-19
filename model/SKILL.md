@@ -1,6 +1,6 @@
 ---
 name: model
-description: Generates a Laravel Eloquent Model following project conventions. Trigger on: "create a model", "new model", "model for {Entity}", "add a relation", "add a scope", "add a cast". Always use this skill for any Model creation or modification.
+description: 'Generates a Laravel Eloquent Model following project conventions. Trigger on: "create a model", "new model", "model for {Entity}", "add a relation", "add a scope", "add a cast". Always use this skill for any Model creation or modification.'
 ---
 
 # Model

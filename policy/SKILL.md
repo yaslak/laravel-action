@@ -1,6 +1,6 @@
 ---
 name: policy
-description: Generates a Laravel Policy following project conventions. Trigger on: "create a policy", "new policy", "policy for {Entity}", "add authorization". Always use this skill for any Policy creation or modification.
+description: 'Generates a Laravel Policy following project conventions. Trigger on: "create a policy", "new policy", "policy for {Entity}", "add authorization". Always use this skill for any Policy creation or modification.'
 ---
 
 # Policy

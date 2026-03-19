@@ -1,6 +1,6 @@
 ---
 name: response
-description: Defines API response conventions for the project. Trigger on: "return a response", "format response", "add message to response", "return 201", "paginate results". Always use this skill for any API response implementation.
+description: 'Defines API response conventions for the project. Trigger on: "return a response", "format response", "add message to response", "return 201", "paginate results". Always use this skill for any API response implementation.'
 ---
 
 # Response

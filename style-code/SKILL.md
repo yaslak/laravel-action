@@ -1,6 +1,6 @@
 ---
 name: style-code
-description: Defines code style conventions for the project. Always apply these rules when writing any PHP code. Trigger on any code generation task.
+description: 'Defines code style conventions for the project. Always apply these rules when writing any PHP code. Trigger on any code generation task.'
 ---
 
 # Code Style

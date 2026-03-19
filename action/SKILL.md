@@ -1,6 +1,6 @@
 ---
 name: action
-description: Generates a Laravel Action following project conventions. Trigger on: "create an action", "new action", "action for {Entity}", "add a flow", "orchestrate {Entity}". Always use this skill for any Action creation or modification.
+description: 'Generates a Laravel Action following project conventions. Trigger on: "create an action", "new action", "action for {Entity}", "add a flow", "orchestrate {Entity}". Always use this skill for any Action creation or modification.'
 ---
 
 # Action

@@ -1,6 +1,6 @@
 ---
 name: pipe
-description: Generates a Laravel Pipe following project conventions. Trigger on: "create a pipe", "new pipe", "pipe for {Entity}", "add a step", "add a pipeline step". Always use this skill for any Pipe creation or modification.
+description: 'Generates a Laravel Pipe following project conventions. Trigger on: "create a pipe", "new pipe", "pipe for {Entity}", "add a step", "add a pipeline step". Always use this skill for any Pipe creation or modification.'
 ---
 
 # Pipe

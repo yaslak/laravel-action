@@ -1,6 +1,6 @@
 ---
 name: listener
-description: Generates a Laravel Listener following project conventions. Trigger on: "create a listener", "new listener", "listener for {Event}", "react to event". Always use this skill for any Listener creation or modification.
+description: 'Generates a Laravel Listener following project conventions. Trigger on: "create a listener", "new listener", "listener for {Event}", "react to event". Always use this skill for any Listener creation or modification.'
 ---
 
 # Listener

@@ -1,6 +1,6 @@
 ---
 name: migration
-description: Generates a Laravel migration following project conventions. Trigger on: "create a migration", "add a column", "new table", "migration for {Model}", "modify the table", "add a field". Always use this skill for any table or column creation or modification.
+description: 'Generates a Laravel migration following project conventions. Trigger on: "create a migration", "add a column", "new table", "migration for {Model}", "modify the table", "add a field". Always use this skill for any table or column creation or modification.'
 ---
 
 # Migration

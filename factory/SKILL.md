@@ -1,6 +1,6 @@
 ---
 name: factory
-description: Generates a Laravel Factory following project conventions. Trigger on: "create a factory", "new factory", "factory for {Entity}", "add factory state". Always use this skill for any Factory creation or modification.
+description: 'Generates a Laravel Factory following project conventions. Trigger on: "create a factory", "new factory", "factory for {Entity}", "add factory state". Always use this skill for any Factory creation or modification.'
 ---
 
 # Factory
